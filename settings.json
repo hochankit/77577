@@ -3,10 +3,22 @@
     "ads":{
         "football_score":[
             {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
+                "id":"0",
+                "name":"Banner 1",
+                "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                "redirect_url":"https://world.taobao.com/"
+            },
+            {
+                "id":"1",
+                "name":"Banner 2",
+                "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                "redirect_url":"https://global.jd.com/"
+            },
+            {
+                "id":"2",
+                "name":"Banner 3",
+                "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                "redirect_url":"https://m.pinduoduo.com/"
             }
         ],
         "basketball_score":[
