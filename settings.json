@@ -1,99 +1,266 @@
 {
     "app_redirect_url": "",
     "ads":{
-        "football_score":[
-            {
-                "id":"0",
-                "name":"Banner 1",
-                "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
-                "redirect_url":"https://world.taobao.com/"
-            },
-            {
-                "id":"1",
-                "name":"Banner 2",
-                "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
-                "redirect_url":"https://global.jd.com/"
-            },
-            {
-                "id":"2",
-                "name":"Banner 3",
-                "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
-                "redirect_url":"https://m.pinduoduo.com/"
-            }
-        ],
-        "basketball_score":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "sport_score":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "radio_list":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "radio_detail":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":"",
-                "item_id":""
-            }
-        ],
-        "anchor_list":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "anchor_detail":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "news_list":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "video_list":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ],
-        "profile":[
-            {
-                "id":"",
-                "name":"",
-                "image_url":"",
-                "redirect_url":""
-            }
-        ]
+        "football_score":{
+            "ads_type":"1",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "basketball_score":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "sport_score":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "radio_list":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "radio_detail":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "anchor_list":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "anchor_detail":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "news_list":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "video_list":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        },
+        "profile":{
+            "ads_type":"0",
+            "ads_data":[
+                {
+                    "id":"0",
+                    "name":"Banner 1",
+                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
+                    "redirect_url":"https://world.taobao.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"1",
+                    "name":"Banner 2",
+                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
+                    "redirect_url":"https://global.jd.com/",
+                    "item_id":""
+                },
+                {
+                    "id":"2",
+                    "name":"Banner 3",
+                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
+                    "redirect_url":"https://m.pinduoduo.com/",
+                    "item_id":""
+                }
+            ]
+        }
     },
     "football_hot_league": [
         {
