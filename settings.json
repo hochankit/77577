@@ -2,7 +2,7 @@
     "app_redirect_url": "",
     "ads":{
         "football_score":{
-            "ads_type":"1",
+            "ads_type":"0",
             "ads_h2w_ratio":4,
             "ads_data":[
                 {
@@ -110,7 +110,7 @@
             ]
         },
         "radio_detail":{
-            "ads_type":"0",
+            "ads_type":"1",
             "ads_h2w_ratio":4,
             "ads_data":[
                 {
