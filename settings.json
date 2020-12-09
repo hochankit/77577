@@ -1,5 +1,6 @@
 {
     "app_redirect_url": "",
+    "ads_rotate_speed":5,
     "ads":{
         "football_score":{
             "ads_type":"0",
@@ -113,27 +114,6 @@
             "ads_type":"1",
             "ads_h2w_ratio":6,
             "ads_data":[
-                {
-                    "id":"0",
-                    "name":"Banner 1",
-                    "image_url":"https://hochankit.github.io/77577/banner_1.jpg",
-                    "redirect_url":"https://world.taobao.com/",
-                    "item_id":""
-                },
-                {
-                    "id":"1",
-                    "name":"Banner 2",
-                    "image_url":"https://hochankit.github.io/77577/banner_2.jpg",
-                    "redirect_url":"https://global.jd.com/",
-                    "item_id":""
-                },
-                {
-                    "id":"2",
-                    "name":"Banner 3",
-                    "image_url":"https://hochankit.github.io/77577/banner_3.jpg",
-                    "redirect_url":"https://m.pinduoduo.com/",
-                    "item_id":""
-                }
             ]
         },
         "anchor_list":{
