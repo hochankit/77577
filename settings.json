@@ -3,7 +3,7 @@
     "ads_rotate_speed": 5,
     "ads": {
         "football_score": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -29,7 +29,7 @@
             ]
         },
         "basketball_score": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -55,7 +55,7 @@
             ]
         },
         "esport_score": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -81,7 +81,7 @@
             ]
         },
         "radio_list": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -111,7 +111,7 @@
             "ads_data": []
         },
         "anchor_list": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -137,11 +137,11 @@
             ]
         },
         "anchor_detail": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": []
         },
         "news_list": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -167,7 +167,7 @@
             ]
         },
         "video_list": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
@@ -193,7 +193,7 @@
             ]
         },
         "profile": {
-            "ads_type": 0,
+            "ads_type": "0",
             "ads_data": [
                 {
                     "id": 0,
