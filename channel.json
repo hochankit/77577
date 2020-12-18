@@ -1,0 +1,52 @@
+{
+    "channel": [
+        {
+            "name": "NBA",
+            "image_url": "https://statics.itc.cn/sports/icon/2.png"
+        },
+        {
+            "name": "CBA",
+            "image_url": "https://statics.itc.cn/sports/icon/3.png"
+        },
+        {
+            "name": "中超",
+            "image_url": "https://statics.itc.cn/sports/icon/4.png"
+        },
+        {
+            "name": "英超",
+            "image_url": "https://statics.itc.cn/sports/icon/7.png"
+        },
+        {
+            "name": "西甲",
+            "image_url": "https://statics.itc.cn/sports/icon/8.png"
+        },
+        {
+            "name": "意甲",
+            "image_url": "https://statics.itc.cn/sports/icon/9.png"
+        },
+        {
+            "name": "德甲",
+            "image_url": "https://statics.itc.cn/sports/icon/10.png"
+        },
+        {
+            "name": "法甲",
+            "image_url": "https://statics.itc.cn/sports/icon/11.png"
+        },
+        {
+            "name": "欧冠",
+            "image_url": "https://statics.itc.cn/sports/icon/12.png"
+        },
+        {
+            "name": "欧联",
+            "image_url": "https://statics.itc.cn/sports/icon/13.png"
+        },
+        {
+            "name": "欧洲杯",
+            "image_url": "https://statics.itc.cn/sports/icon/euro2020.png"
+        },
+        {
+            "name": "亚冠",
+            "image_url": "https://statics.itc.cn/sports/icon/5.png"
+        }
+    ]
+}
