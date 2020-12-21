@@ -2,51 +2,63 @@
     "channel": [
         {
             "name": "NBA",
-            "image_url": "https://statics.itc.cn/sports/icon/2.png"
+            "image_url": "https://statics.itc.cn/sports/icon/2.png",
+            "match": "nba"
         },
         {
             "name": "CBA",
-            "image_url": "https://statics.itc.cn/sports/icon/3.png"
+            "image_url": "https://statics.itc.cn/sports/icon/3.png",
+            "match": "cba"
         },
         {
             "name": "中超",
-            "image_url": "https://statics.itc.cn/sports/icon/4.png"
+            "image_url": "https://statics.itc.cn/sports/icon/4.png",
+            "match": ""
         },
         {
             "name": "英超",
-            "image_url": "https://statics.itc.cn/sports/icon/7.png"
+            "image_url": "https://statics.itc.cn/sports/icon/7.png",
+            "match": ""
         },
         {
             "name": "西甲",
-            "image_url": "https://statics.itc.cn/sports/icon/8.png"
+            "image_url": "https://statics.itc.cn/sports/icon/8.png",
+            "match": ""
         },
         {
             "name": "意甲",
-            "image_url": "https://statics.itc.cn/sports/icon/9.png"
+            "image_url": "https://statics.itc.cn/sports/icon/9.png",
+            "match": ""
         },
         {
             "name": "德甲",
-            "image_url": "https://statics.itc.cn/sports/icon/10.png"
+            "image_url": "https://statics.itc.cn/sports/icon/10.png",
+            "match": ""
         },
         {
             "name": "法甲",
-            "image_url": "https://statics.itc.cn/sports/icon/11.png"
+            "image_url": "https://statics.itc.cn/sports/icon/11.png",
+            "match": ""
         },
         {
             "name": "欧冠",
-            "image_url": "https://statics.itc.cn/sports/icon/12.png"
+            "image_url": "https://statics.itc.cn/sports/icon/12.png",
+            "match": ""
         },
         {
             "name": "欧联",
-            "image_url": "https://statics.itc.cn/sports/icon/13.png"
+            "image_url": "https://statics.itc.cn/sports/icon/13.png",
+            "match": ""
         },
         {
             "name": "欧洲杯",
-            "image_url": "https://statics.itc.cn/sports/icon/euro2020.png"
+            "image_url": "https://statics.itc.cn/sports/icon/euro2020.png",
+            "match": ""
         },
         {
             "name": "亚冠",
-            "image_url": "https://statics.itc.cn/sports/icon/5.png"
+            "image_url": "https://statics.itc.cn/sports/icon/5.png",
+            "match": ""
         }
     ]
 }
