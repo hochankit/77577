@@ -13,52 +13,52 @@
         {
             "name": "中超",
             "image_url": "https://statics.itc.cn/sports/icon/4.png",
-            "match": ""
+            "match": "csl"
         },
         {
             "name": "英超",
             "image_url": "https://statics.itc.cn/sports/icon/7.png",
-            "match": ""
+            "match": "football/17"
         },
         {
             "name": "西甲",
             "image_url": "https://statics.itc.cn/sports/icon/8.png",
-            "match": ""
+            "match": "football/8"
         },
         {
             "name": "意甲",
             "image_url": "https://statics.itc.cn/sports/icon/9.png",
-            "match": ""
+            "match": "football/23"
         },
         {
             "name": "德甲",
             "image_url": "https://statics.itc.cn/sports/icon/10.png",
-            "match": ""
+            "match": "football/35"
         },
         {
             "name": "法甲",
             "image_url": "https://statics.itc.cn/sports/icon/11.png",
-            "match": ""
+            "match": "football/34"
         },
         {
             "name": "欧冠",
             "image_url": "https://statics.itc.cn/sports/icon/12.png",
-            "match": ""
+            "match": "football/7"
         },
         {
             "name": "欧联",
             "image_url": "https://statics.itc.cn/sports/icon/13.png",
-            "match": ""
+            "match": "football/679"
         },
         {
             "name": "欧洲杯",
             "image_url": "https://statics.itc.cn/sports/icon/euro2020.png",
-            "match": ""
+            "match": "football/27"
         },
         {
             "name": "亚冠",
             "image_url": "https://statics.itc.cn/sports/icon/5.png",
-            "match": ""
+            "match": "football/463"
         }
     ]
 }
