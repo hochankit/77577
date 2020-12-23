@@ -290,7 +290,7 @@
     "esport_hot_league": [
         {
             "id": 1,
-            "name": "英雄联盟"
+            "name": "Liga legenda"
         },
         {
             "id": 2,
@@ -302,7 +302,7 @@
         },
         {
             "id": 4,
-            "name": "王者荣耀"
+            "name": "Honor of Kings"
         }
     ],
     "zeyu_api_domain": "https://bf.34433zq.com",
