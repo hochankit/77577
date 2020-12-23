@@ -222,59 +222,59 @@
     "football_hot_league": [
         {
             "id": 36,
-            "name": "英超"
+            "name": "Liga Primer"
         },
         {
             "id": 34,
-            "name": "意甲"
+            "name": "Serie a"
         },
         {
             "id": 31,
-            "name": "西甲"
+            "name": "La Liga"
         },
         {
             "id": 8,
-            "name": "德甲"
+            "name": "Bundesliga"
         },
         {
             "id": 11,
-            "name": "法甲"
+            "name": "Ligue Prancis"
         },
         {
             "id": 23,
-            "name": "葡超"
+            "name": "Portugis Super"
         },
         {
             "id": 60,
-            "name": "中超"
+            "name": "Liga Super China"
         },
         {
             "id": 103,
-            "name": "欧冠杯"
+            "name": "Liga UEFA"
         },
         {
             "id": 113,
-            "name": "欧罗巴杯"
+            "name": "Piala Europa"
         },
         {
             "id": 192,
-            "name": "亚冠杯"
+            "name": "Liga Champions AFC"
         },
         {
             "id": 95,
-            "name": "亚洲杯"
+            "name": "Piala Asia"
         },
         {
             "id": 224,
-            "name": "美洲杯"
+            "name": "Copa América"
         },
         {
             "id": 67,
-            "name": "欧洲杯"
+            "name": "Piala Eropah UEFA"
         },
         {
             "id": 75,
-            "name": "世界杯"
+            "name": "Piala Dunia"
         }
     ],
     "basketball_hot_league": [
