@@ -311,6 +311,8 @@
     "web_socket_url": "wss://www.77577.com:6001/app/AABBCCDD?protocol=7&client=js&version=5.1.1&flash=false",
     "radio_list_url": "https://www.rasa.li/77577/online_radio_list.php",
     "radio_detail_url": "https://www.rasa.li/77577/online_radio_detail.php",
+    "news_list_url": "https://www.rasa.li/77577/indosport_news_list.php",
+    "news_detail_url": "https://www.rasa.li/77577/indosport_news_detail.php",
     "news_category": [
         [
             {
