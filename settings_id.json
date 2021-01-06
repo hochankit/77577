@@ -314,115 +314,113 @@
     "news_list_url": "https://www.rasa.li/77577/indosport_news_list.php",
     "news_detail_url": "https://www.rasa.li/77577/indosport_news_detail.php",
     "news_category": [
-        [
-            {
-                "title": "Home",
-                "postfix": "home",
-                "submenu": [
-                ]
-            },
-            {
-                "title": "Sepakbola",
-                "postfix": "sepakbola",
-                "submenu": [
-                    {
-                        "title": "In Depth",
-                        "postfix": "in-depth"
-                    },
-                    {
-                        "title": "Liga Indonesia",
-                        "postfix": "liga-indonesia"
-                    },
-                    {
-                        "title": "Liga Spanyol",
-                        "postfix": "liga-spanyol"
-                    },
-                    {
-                        "title": "Liga Italia",
-                        "postfix": "liga-italia"
-                    },
-                    {
-                        "title": "Liga Champions",
-                        "postfix": "liga-champions"
-                    },
-                    {
-                        "title": "Liga Eropa",
-                        "postfix": "liga-europa"
-                    },
-                    {
-                        "title": "Liga Inggris",
-                        "postfix": "liga-inggris"
-                    },
-                    {
-                        "title": "Bursa Transfer",
-                        "postfix": "bursa-transfer"
-                    }
-                ]
-            },
-            {
-                "title": "Sportainment",
-                "postfix": "sportainment",
-                "submenu": [
-                    {
-                        "title": "SelebSport",
-                        "postfix": "seleb-sport"
-                    },
-                    {
-                        "title": "Lifestyle",
-                        "postfix": "lifestyle"
-                    }
-                ]
-            },
-            {
-                "title": "Otomotif",
-                "postfix": "otomotif",
-                "submenu": [
-                    {
-                        "title": "MotoGP",
-                        "postfix": "motogp"
-                    },
-                    {
-                        "title": "Formula 1",
-                        "postfix": "formula1"
-                    },
-                    {
-                        "title": "Otomania",
-                        "postfix": "otomania"
-                    }
-                ]
-            },
-            {
-                "title": "Multisport",
-                "postfix": "multisport",
-                "submenu": [
-                    {
-                        "title": "Basket",
-                        "postfix": "basket"
-                    },
-                    {
-                        "title": "Raket",
-                        "postfix": "raket"
-                    },
-                    {
-                        "title": "MMA",
-                        "postfix": "mma"
-                    },
-                    {
-                        "title": "Futsal",
-                        "postfix": "futsal"
-                    },
-                    {
-                        "title": "Olimpik",
-                        "postfix": "olimpik"
-                    }
-                ]
-            },
-            {
-                "title": "E-Sport",
-                "postfix": "e-sport",
-                "submenu": [
-                ]
-            }
-        ]
+        {
+            "title": "Home",
+            "postfix": "home",
+            "submenu": [
+            ]
+        },
+        {
+            "title": "Sepakbola",
+            "postfix": "sepakbola",
+            "submenu": [
+                {
+                    "title": "In Depth",
+                    "postfix": "in-depth"
+                },
+                {
+                    "title": "Liga Indonesia",
+                    "postfix": "liga-indonesia"
+                },
+                {
+                    "title": "Liga Spanyol",
+                    "postfix": "liga-spanyol"
+                },
+                {
+                    "title": "Liga Italia",
+                    "postfix": "liga-italia"
+                },
+                {
+                    "title": "Liga Champions",
+                    "postfix": "liga-champions"
+                },
+                {
+                    "title": "Liga Eropa",
+                    "postfix": "liga-europa"
+                },
+                {
+                    "title": "Liga Inggris",
+                    "postfix": "liga-inggris"
+                },
+                {
+                    "title": "Bursa Transfer",
+                    "postfix": "bursa-transfer"
+                }
+            ]
+        },
+        {
+            "title": "Sportainment",
+            "postfix": "sportainment",
+            "submenu": [
+                {
+                    "title": "SelebSport",
+                    "postfix": "seleb-sport"
+                },
+                {
+                    "title": "Lifestyle",
+                    "postfix": "lifestyle"
+                }
+            ]
+        },
+        {
+            "title": "Otomotif",
+            "postfix": "otomotif",
+            "submenu": [
+                {
+                    "title": "MotoGP",
+                    "postfix": "motogp"
+                },
+                {
+                    "title": "Formula 1",
+                    "postfix": "formula1"
+                },
+                {
+                    "title": "Otomania",
+                    "postfix": "otomania"
+                }
+            ]
+        },
+        {
+            "title": "Multisport",
+            "postfix": "multisport",
+            "submenu": [
+                {
+                    "title": "Basket",
+                    "postfix": "basket"
+                },
+                {
+                    "title": "Raket",
+                    "postfix": "raket"
+                },
+                {
+                    "title": "MMA",
+                    "postfix": "mma"
+                },
+                {
+                    "title": "Futsal",
+                    "postfix": "futsal"
+                },
+                {
+                    "title": "Olimpik",
+                    "postfix": "olimpik"
+                }
+            ]
+        },
+        {
+            "title": "E-Sport",
+            "postfix": "e-sport",
+            "submenu": [
+            ]
+        }
     ]
 }
