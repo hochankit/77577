@@ -324,6 +324,10 @@
                 "postfix": "sepakbola",
                 "submenu": [
                     {
+                        "title": "In Depth",
+                        "postfix": "in-depth"
+                    },
+                    {
                         "title": "Liga Indonesia",
                         "postfix": "liga-indonesia"
                     },
@@ -346,6 +350,10 @@
                     {
                         "title": "Liga Inggris",
                         "postfix": "liga-inggris"
+                    },
+                    {
+                        "title": "Bursa Transfer",
+                        "postfix": "bursa-transfer"
                     }
                 ]
             },
@@ -361,12 +369,6 @@
                         "title": "Lifestyle",
                         "postfix": "lifestyle"
                     }
-                ]
-            },
-            {
-                "title": "In Depth",
-                "postfix": "in-depth",
-                "submenu": [
                 ]
             },
             {
