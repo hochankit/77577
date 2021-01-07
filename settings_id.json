@@ -326,7 +326,7 @@
             "submenu": [
                 {
                     "title": "Main",
-                    "postfix": ""
+                    "postfix": "sepakbola"
                 },
                 {
                     "title": "In Depth",
@@ -368,7 +368,7 @@
             "submenu": [
                 {
                     "title": "Main",
-                    "postfix": ""
+                    "postfix": "sportainment"
                 },
                 {
                     "title": "SelebSport",
@@ -386,7 +386,7 @@
             "submenu": [
                 {
                     "title": "Main",
-                    "postfix": ""
+                    "postfix": "otomotif"
                 },
                 {
                     "title": "MotoGP",
@@ -408,7 +408,7 @@
             "submenu": [
                 {
                     "title": "Main",
-                    "postfix": ""
+                    "postfix": "multisport"
                 },
                 {
                     "title": "Basket",
