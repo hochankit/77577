@@ -363,7 +363,7 @@
             ]
         },
         {
-            "title": "Sportainment",
+            "title": "Hiburan",
             "postfix": "sportainment",
             "submenu": [
                 {
@@ -381,7 +381,7 @@
             ]
         },
         {
-            "title": "Otomotif",
+            "title": "Oto",
             "postfix": "otomotif",
             "submenu": [
                 {
@@ -403,7 +403,7 @@
             ]
         },
         {
-            "title": "Selengkapnya",
+            "title": "Lain",
             "postfix": "multisport",
             "submenu": [
                 {
