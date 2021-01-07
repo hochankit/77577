@@ -325,6 +325,10 @@
             "postfix": "sepakbola",
             "submenu": [
                 {
+                    "title": "Main",
+                    "postfix": ""
+                },
+                {
                     "title": "In Depth",
                     "postfix": "in-depth"
                 },
@@ -363,6 +367,10 @@
             "postfix": "sportainment",
             "submenu": [
                 {
+                    "title": "Main",
+                    "postfix": ""
+                },
+                {
                     "title": "SelebSport",
                     "postfix": "seleb-sport"
                 },
@@ -376,6 +384,10 @@
             "title": "Otomotif",
             "postfix": "otomotif",
             "submenu": [
+                {
+                    "title": "Main",
+                    "postfix": ""
+                },
                 {
                     "title": "MotoGP",
                     "postfix": "motogp"
@@ -391,12 +403,20 @@
             ]
         },
         {
-            "title": "Multisport",
+            "title": "Selengkapnya",
             "postfix": "multisport",
             "submenu": [
                 {
+                    "title": "Main",
+                    "postfix": ""
+                },
+                {
                     "title": "Basket",
                     "postfix": "basket"
+                },
+                {
+                    "title": "E-Sport",
+                    "postfix": "e-sport"
                 },
                 {
                     "title": "Raket",
@@ -414,12 +434,6 @@
                     "title": "Olimpik",
                     "postfix": "olimpik"
                 }
-            ]
-        },
-        {
-            "title": "E-Sport",
-            "postfix": "e-sport",
-            "submenu": [
             ]
         }
     ]
