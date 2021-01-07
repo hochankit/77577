@@ -404,12 +404,8 @@
         },
         {
             "title": "Lain",
-            "postfix": "multisport",
+            "postfix": "basket",
             "submenu": [
-                {
-                    "title": "Main",
-                    "postfix": "multisport"
-                },
                 {
                     "title": "Basket",
                     "postfix": "basket"
