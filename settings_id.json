@@ -436,35 +436,37 @@
     "recommend_filter": {
         "football":[
             {
+                "id": 0,
                 "name": "Handicap",
                 "name_zh": "让球",
-                "value": "0",
+                "value": 0,
                 "is_selected": true
             },
             {
+                "id": 1,
                 "name": "Over/Under",
                 "name_zh": "大小球",
-                "value": "1",
+                "value": 1,
                 "is_selected": true
             },
             {
+                "id": 2,
                 "name": "Win Draw Lose",
                 "name_zh": "胜平负",
-                "value": "2",
                 "is_selected": true
             }
         ],
         "basketball": [
             {
+                "id": 0,
                 "name": "Handicap",
                 "name_zh": "让球",
-                "value":"0",
                 "is_selected": true
             },
             {
-                "name":"Skor Total",
+                "id": 1,
+                "name": "Skor Total",
                 "name_zh": "总分",
-                "value":"1",
                 "is_selected": true
             }
         ]
