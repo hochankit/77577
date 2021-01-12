@@ -24,7 +24,7 @@
             "team_b_logo": "https://www.77577.com/img-zq/Image/team/images/20130917090742.jpg",
             "team_a_name": "Almagro",
             "team_b_name": "Chacarita juniors",
-            "match_time": "2021/1/12 8:10:00"
+            "match_time": "2021/1/12 8:10"
         },
         {
             "id": 1,
@@ -48,7 +48,7 @@
             "team_b_logo": "https://www.77577.com/img-zq/Image/team/images/20161013112616.png",
             "team_a_name": "Gimnasia Jujuy",
             "team_b_name": "Santa Marina Tandil",
-            "match_time": "2021/1/12 8:10:00"
+            "match_time": "2021-01-12 08:10"
         },
         {
             "id": 2,
@@ -72,7 +72,7 @@
             "team_b_logo": "https://www.77577.com/img-zq/Image/team/images/20130922170218.gif",
             "team_a_name": "Audax Italiano",
             "team_b_name": "Huachipato",
-            "match_time": "2021/1/12 8:30:00"
+            "match_time": "2021-01-12 08:30"
         },
         {
             "id": 3,
@@ -96,7 +96,7 @@
             "team_b_logo": "https://www.77577.com/img-zq/Image/team/images/20161013112616.png",
             "team_a_name": "Tigres (w)",
             "team_b_name": "Pachuca (w)",
-            "match_time": "2021/1/12 9:00:00"
+            "match_time": "2021-01-12 09:00"
         },
         {
             "id": 4,
@@ -120,7 +120,7 @@
             "team_b_logo": "https://www.77577.com/img-zq/Image/team/images/2013121171406.jpg",
             "team_a_name": "Granada CF",
             "team_b_name": "Osasuna",
-            "match_time": "2021/1/13 2:00:00"
+            "match_time": "2021-01-13 02:00"
         },
         {
             "id": 5,
