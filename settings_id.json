@@ -470,5 +470,7 @@
                 "is_selected": true
             }
         ]
-    }
+    },
+    "recommend_football_list_url": "https://hochankit.github.io/77577/recommend_football.json",
+    "recommend_basketball_list_url": "https://hochankit.github.io/77577/recommend_basketball.json"
 }
