@@ -475,6 +475,6 @@
     "recommend_basketball_main_list_url": "https://hochankit.github.io/77577/recommend_basketball_main.json",
     "recommend_football_expert_list_url": "https://hochankit.github.io/77577/recommend_football_expert.json",
     "recommend_basketball_expert_list_url": "https://hochankit.github.io/77577/recommend_basketball_expert.json",
-    "recommend_football_match_list_url": "https://hochankit.github.io/77577/recommend_football_match.json",
-    "recommend_basketball_match_list_url": "https://hochankit.github.io/77577/recommend_basketball_match.json"
+    "recommend_football_match_list_expert_url": "https://hochankit.github.io/77577/recommend_football_match_expert.json",
+    "recommend_basketball_match_expert_list_url": "https://hochankit.github.io/77577/recommend_basketball_match_expert.json"
 }
