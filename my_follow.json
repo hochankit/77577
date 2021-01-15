@@ -1,0 +1,27 @@
+{
+    "status": 1,
+    "message": "Request successful.",
+    "data": [
+        {
+            "id": 0,
+            "user_image_url": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
+            "user_name": "Mariah Carayban",
+            "user_type": "Analis",
+            "description": "Hello world, join me in my accurate prediction result. You won't regret your action. I will try predict every popular matches for you all."
+        },
+        {
+            "id": 1,
+            "user_image_url": "https://pixinvent.com/materialize-material-design-admin-template/app-assets/images/user/12.jpg",
+            "user_name": "Macquici Jenicinme",
+            "user_type": "Analis",
+            "description": "If you trust me, you confirm winning big, if you don't, you might win as well"
+        },
+        {
+            "id": 2,
+            "user_image_url": "https://i.imgur.com/vqESNGp.jpg",
+            "user_name": "Adam Emerson",
+            "user_type": "Analis",
+            "description": "Just a normal person that try to give my view on matches"
+        }
+    ]
+}
