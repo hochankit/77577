@@ -309,10 +309,10 @@
     "scoring_api_domain": "https://www.77577.com",
     "image_url": "https://bf.34433zq.com",
     "web_socket_url": "wss://www.77577.com:6001/app/AABBCCDD?protocol=7&client=js&version=5.1.1&flash=false",
-    "radio_list_url": "https://www.rasa.li/77577/radio/radio_list.php",
-    "radio_detail_url": "https://www.rasa.li/77577/radio/radio_detail.php",
-    "news_list_url": "https://www.rasa.li/77577/news/news_list.php",
-    "news_detail_url": "https://www.rasa.li/77577/news/news_detail.php",
+    "radio_list_url": "https://www.rasa.li/77577/online_radio_list.php",
+    "radio_detail_url": "https://www.rasa.li/77577/online_radio_detail.php",
+    "news_list_url": "https://www.rasa.li/77577/indosport_news_list.php",
+    "news_detail_url": "https://www.rasa.li/77577/indosport_news_detail.php",
     "news_category": [
         {
             "title": "Home",
@@ -484,5 +484,6 @@
     "my_follow_url": "https://hochankit.github.io/77577/my_follow.json",
     "terms": "https://hochankit.github.io/77577/terms_id.html",
     "privacy": "https://hochankit.github.io/77577/privacy_id.html",
-    "about_us": "https://hochankit.github.io/77577/about_id.html"
+    "about_us": "https://hochankit.github.io/77577/about_id.html",
+    "api_domain": "https://www.rasa.li/77577/"
 }
