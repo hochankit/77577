@@ -468,6 +468,12 @@
                 "name": "Skor Total",
                 "name_zh": "总分",
                 "is_selected": true
+            },
+            {
+                "id": 2,
+                "name": "Win Draw Lose",
+                "name_zh": "胜平负",
+                "is_selected": true
             }
         ]
     },
