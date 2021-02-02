@@ -466,7 +466,7 @@
             {
                 "id": 1,
                 "name": "Over/Under",
-                "name_zh": "大小球",
+                "name_zh": "总分",
                 "is_selected": true
             },
             {
